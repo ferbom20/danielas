@@ -1,2 +1,0 @@
-# danielas
-Software Condominium
