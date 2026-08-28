@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Control de Estacionamiento Residencial
 
 Sistema web completo (PHP 8+, MySQL, HTML5, CSS3, JS vanilla) para el control
@@ -80,3 +81,7 @@ una librería vendorizada MIT, sin conexión a servicios externos) que enlaza a
 `public/consulta.php?t=TOKEN`. Esa página, sin necesidad de iniciar sesión,
 muestra la estadía activa (o indica que no hay ninguna) y actualiza el
 contador cada 5 segundos vía JavaScript, sin recargar la página.
+=======
+# danielas
+Software Condominium
+>>>>>>> 59aa64c233f71f51d5563bb66f0050a2f5c01648
