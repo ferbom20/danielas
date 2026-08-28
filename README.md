@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sistema de Control de Estacionamiento Residencial
 
 Sistema web completo (PHP 8+, MySQL, HTML5, CSS3, JS vanilla) para el control
