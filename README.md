@@ -82,6 +82,3 @@ una librería vendorizada MIT, sin conexión a servicios externos) que enlaza a
 muestra la estadía activa (o indica que no hay ninguna) y actualiza el
 contador cada 5 segundos vía JavaScript, sin recargar la página.
 =======
-# danielas
-Software Condominium
->>>>>>> 59aa64c233f71f51d5563bb66f0050a2f5c01648
